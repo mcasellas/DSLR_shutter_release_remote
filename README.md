@@ -13,7 +13,6 @@ This project uses the headphone output of a pair of Walkie-Talkies to trigger a 
 - Breadboard or a prototype board
 - Battery
 - Switch
-- Cables
 - Case
 
 ## Instructions:

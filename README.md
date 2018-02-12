@@ -2,6 +2,8 @@
 
 This project uses the headphone output of a pair of Walkie-Talkies to trigger a DSLR camera (in this example `NIKON D500` through a `DC0` cable).
 
+![alt text](https://github.com/mcasellas/DSLR_shutter_release_remote/blob/master/images/setup.jpeg)
+
 ## Material:
 
 - Camera
